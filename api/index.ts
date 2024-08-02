@@ -1,8 +1,6 @@
 import { createApp, defineEventHandler } from "h3";
 import { routes } from "./routes";
 
-console.log("Api index.ts running!");
-
 const app = createApp({ debug: true });
 
 const logPath = defineEventHandler((event) => {

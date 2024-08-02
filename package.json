@@ -12,12 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vitejs/plugin-vue": "^5.1.2",
-    "hono": "^4.5.3",
     "vinxi": "^0.4.1",
     "vue": "^3.4.35"
   },
   "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
     "typescript": "^5.5.4"
   }
 }
