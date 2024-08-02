@@ -20,7 +20,7 @@ export default createApp({
       type: "http",
       base: "/api",
       target: "server",
-      handler: "./api/index.ts",
+      handler: "./server/index.ts",
     },
   ],
 });
