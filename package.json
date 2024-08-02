@@ -1,0 +1,22 @@
+{
+  "name": "vinxi-vue-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "hono": "^4.5.3",
+    "vinxi": "^0.4.1",
+    "vue": "^3.4.35"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
